@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2b33019b-17bb-49c6-9ad2-0abb86f410ea" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/compiler/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/compiler/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/compiler/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/compiler/Main.java" afterDir="false" />
+    </list>
+    <list id="3602276d-8d44-4939-b00a-3ef6d34e3167" name="Changes by diegofes" comment="" />
+    <list id="4955b825-4eb6-4ab5-8ecf-e0875ee9063a" name="Changes by Jaume" comment="" />
+    <list id="f34a3507-579c-49d2-851d-d35c65502ec0" name="Changes by joanbalaguer" comment="" />
+    <list id="0871010c-68d3-4bd7-8c15-0b85e4a39e26" name="Changes by marc" comment="" />
+    <list id="58cceed4-2ebd-4add-94de-92150b1a83c2" name="Changes by messi" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2HtvpBJwU7TbgBdTi4V9fNsUHBy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/joanbalaguer/Desktop/Compiladors/Practica/KSA_Compiler/src/TESTING/Errors&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.tabs&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/TESTING/Errors" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/TESTING/1.Funcions" />
+      <recent name="C:\Users\Jaume\Desktop\UIB\Cursos\TERCER\1r quatri\COMPILADORS\PRÀCTICA KSA\KSA_Compiler\src\compiler\GeneracioCodiIntermedi\Puji" />
+      <recent name="$PROJECT_DIR$/src/compiler/ArbreSintactic" />
+      <recent name="$PROJECT_DIR$/src/compiler" />
+      <recent name="$PROJECT_DIR$/src/compiler/Symbols" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b33019b-17bb-49c6-9ad2-0abb86f410ea" name="Changes" comment="" />
+      <created>1669117374393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669117374393</updated>
+      <workItem from="1669117375594" duration="745000" />
+      <workItem from="1669126802878" duration="107000" />
+      <workItem from="1669126929973" duration="902000" />
+      <workItem from="1669128812301" duration="23822000" />
+      <workItem from="1670578679304" duration="14723000" />
+      <workItem from="1670677697990" duration="1407000" />
+      <workItem from="1671182043423" duration="11120000" />
+      <workItem from="1671264659237" duration="18635000" />
+      <workItem from="1671726492544" duration="77000" />
+      <workItem from="1671785764231" duration="12334000" />
+      <workItem from="1671872078354" duration="5388000" />
+      <workItem from="1672043558706" duration="13682000" />
+      <workItem from="1672130255386" duration="13110000" />
+      <workItem from="1672216686587" duration="12444000" />
+      <workItem from="1672306441919" duration="7947000" />
+      <workItem from="1672333456331" duration="714000" />
+      <workItem from="1672354981759" duration="6362000" />
+      <workItem from="1672376226886" duration="7069000" />
+      <workItem from="1672387480171" duration="12409000" />
+      <workItem from="1672476399617" duration="7321000" />
+      <workItem from="1672648615177" duration="7658000" />
+      <workItem from="1672832602919" duration="2976000" />
+      <workItem from="1672907825121" duration="8487000" />
+      <workItem from="1672995136634" duration="6542000" />
+      <workItem from="1673080881328" duration="3123000" />
+      <workItem from="1673872798106" duration="1183000" />
+      <workItem from="1674201821149" duration="18037000" />
+      <workItem from="1674553844459" duration="11431000" />
+      <workItem from="1674647537585" duration="1806000" />
+      <workItem from="1675329276942" duration="640000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
